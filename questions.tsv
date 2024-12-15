@@ -1,0 +1,3 @@
+question_template	image_file_template
+When was {name} born? Answer just with the year.	{source}.png
+What famous authors died in the year {ANS_0}? 	
